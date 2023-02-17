@@ -14,9 +14,6 @@ about:
     - label: "Residence"
       value: "Brazil"
 
-    - label: "Freelance"
-      value: "Available"
-
     - label: "Address"
       value: "Santo Andre"
 
@@ -296,21 +293,13 @@ text:
 contacts_info:
   title: "Contacts Info"
   list:
-    - label: "Phone"
-      icon: "fas fa-phone"
-      value: "+ (231) 456 67 89"
-
     - label: "Email"
       icon:  "fas fa-envelope"
-      value: "<a href='mailto:steve-pearson@gmail.com'>steve-pearson@gmail.com</a>"
+      value: "<a href='mailto:lucas.h.domingues@gmail.com'>lucas.h.domingues@gmail.com</a>"
 
     - label: "Address"
       icon: "fas fa-map-marker-alt"
-      value: "2621 W Pico Blvd, Los Angeles"
-    
-    - label: "Freelance Available"
-      icon: "fas fa-user-tie"
-      value: "I am available for Freelance hire"
+      value: "Santo Andre, Sao Paulo, Brazil"
 
 ### Contact Form [ contacts-form ]
 contacts_form:

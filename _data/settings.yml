@@ -7,6 +7,7 @@ settings:
   logo_text: "Lucas <strong>Domingues</strong>"
   logo_hover_text: "Download <strong>CV</strong>"
   quick_colors: "purple" # select quick color schemes: "beige", "blue", "brown", "green_light", "green", "orange", "purple", "red", "yellow_light", "yellow". If empty colors taken from _sass/ryancv/settings.scss
+  resume_link: "https://drive.google.com/file/d/1VhFhv1Cos0_IbpzIbs2qSiv1-aB5jmwg/view?usp=share_link"
 
 ### Portfolio Filters Settings
 portfolio:

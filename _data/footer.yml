@@ -5,14 +5,14 @@
 
 main:
   social:
-    - title: "Pinterest"
-      icon: "fab fa-pinterest"
-      url: "https://www.pinterest.com/"
     - title: "Instagram"
       icon: "fab fa-instagram"
-      url: "https://instagram.com/"
-    - title: "Dribbble"
-      icon: "fab fa-dribbble"
-      url: "https://dribbble.com/"
-  text1: "E: alejandroa@gmail.com"
-  text2: "T: +1 (234) 567 80 98"
+      url: "https://instagram.com/luchdom"
+    - title: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/lucashdomingues/"
+    - title: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/luchdom"
+  text1: "E: lucas.h.domingues@gmail.com"
+  text2: "Download my resume, by clicking <br> over my name on the up left corner, <br>to checkout my skills and experiences."
