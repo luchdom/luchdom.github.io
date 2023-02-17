@@ -12,7 +12,7 @@ about:
       value: "29"
 
     - label: "Residence"
-      value: "BRazil"
+      value: "Brazil"
 
     - label: "Freelance"
       value: "Available"
@@ -20,15 +20,12 @@ about:
     - label: "Address"
       value: "Santo Andre"
 
-    - label: "Phone"
-      value: ""
-
     - label: "E-mail"
       value: "lucas.h.domingues@gmail.com"
 
   download:
     text: "Download CV"
-    link: "https://drive.google.com/"
+    link: "https://drive.google.com/file/d/1VhFhv1Cos0_IbpzIbs2qSiv1-aB5jmwg/view?usp=share_link"
 
 ### Services [ services ]
 services:

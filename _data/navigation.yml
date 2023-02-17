@@ -41,20 +41,25 @@ main:
   - title: "Portfolio"
     url: "portfolio/"
     parent: 0
+
+#### Contacts
+  - title: "Contacts"
+    url: "contacts/"
+    parent: 0
   
 #### Blog
 ###- title: "Blog"
 ###  url: "blog/"
 ###  parent: 0
   
-  # Contacts
-  - title: "Contacts"
-    url: "contacts/"
-    parent: 1
-    childs:
-        - title: "Contacts Default"
-          url: "contacts/"
-        - title: "Contacts Image"
-          url: "contacts-image/"
-        - title: "Contacts Map"
-          url: "contacts-map/"
+#### Contacts
+###- title: "Contacts"
+###  url: "contacts/"
+###  parent: 1
+###  childs:
+###      - title: "Contacts Default"
+###        url: "contacts/"
+###      - title: "Contacts Image"
+###        url: "contacts-image/"
+###      - title: "Contacts Map"
+###        url: "contacts-map/"
