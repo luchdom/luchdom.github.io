@@ -6,25 +6,25 @@
 ### About [ about ]
 about:
   image: "assets/img/man2.jpg"
-  text: "<p>Hello! I’m Daniel Curry. Web designer from USA, California, San Francisco. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.</p>"
+  text: "<p>Hello! I’m Lucas Domingues. Software Engineer from Brazil, Sao Paulo. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.</p>"
   list:
     - label: "Age"
-      value: "24"
+      value: "29"
 
     - label: "Residence"
-      value: "USA"
+      value: "BRazil"
 
     - label: "Freelance"
       value: "Available"
 
     - label: "Address"
-      value: "San Francisco"
+      value: "Santo Andre"
 
     - label: "Phone"
-      value: "+1 256 254 84 56"
+      value: ""
 
     - label: "E-mail"
-      value: "alejandroa@gmail.com"
+      value: "lucas.h.domingues@gmail.com"
 
   download:
     text: "Download CV"
