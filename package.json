@@ -1,0 +1,27 @@
+{
+  "name": "luchdom.github.io",
+  "version": "1.0.0",
+  "description": "Personal vCard site for Lucas Domingues.",
+  "private": true,
+  "scripts": {
+    "build": "html-minifier-terser --case-sensitive --collapse-whitespace --remove-comments --remove-redundant-attributes --remove-script-type-attributes --remove-style-link-type-attributes --minify-css true --minify-js true --output index.html src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luchdom/luchdom.github.io.git"
+  },
+  "keywords": [
+    "vcard",
+    "portfolio"
+  ],
+  "author": "Lucas Domingues",
+  "license": "UNLICENSED",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/luchdom/luchdom.github.io/issues"
+  },
+  "homepage": "https://luchdom.com/",
+  "devDependencies": {
+    "html-minifier-terser": "^7.2.0"
+  }
+}
